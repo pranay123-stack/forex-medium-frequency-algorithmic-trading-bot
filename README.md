@@ -1,3 +1,18 @@
+> ### ⚠️ Design specification — not implemented
+>
+> **This repository contains a design document only. There is no source code here.**
+>
+> Everything below describes an intended architecture. Any performance figure, benchmark,
+> latency target, throughput number or Sharpe ratio in this document is a **design target
+> that has never been measured**, not a result. Installation and usage instructions
+> describe files that do not exist in this repository.
+>
+> It is published as a specification and planning artefact. For systems that are actually
+> built and tested, see
+> **[quant-strategy-research](https://github.com/pranay123-stack/quant-strategy-research)**.
+
+---
+
 # Forex Medium Frequency Algorithmic Trading Bot
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
