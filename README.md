@@ -9,7 +9,7 @@
 >
 > It is published as a specification and planning artefact. For systems that are actually
 > built and tested, see
-> **[quant-strategy-research](https://github.com/pranay123-stack/quant-strategy-research)**.
+> **[crypto-trading-strategies](https://github.com/pranay123-stack/crypto-trading-strategies)**.
 
 ---
 
